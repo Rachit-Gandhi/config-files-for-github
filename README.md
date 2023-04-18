@@ -47,7 +47,10 @@
    <a href=""><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 </div>
 
+
+<footer>
 <div align="center">
  
   <p>Credits: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>,<a href="https://github.com/rafaballerini">Rafaella Ballerini</a> and <a href="https://github.com/duribeiro">Eduardo Ribeiro</a></p>
 </div>
+</footer>
