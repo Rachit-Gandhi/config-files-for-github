@@ -1,12 +1,12 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Eduardo Ribeiro 😃️</a>
+    Hey, Rachit this side! 👋
+    <a href="https://www.linkedin.com/in/rachit-gandhi-4a79001a9/">Rachit Gandhi</a>
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front End e gosto muito de compartilhar meu conhecimento e aprendizado no meu canal
+    Hey! Just a third yearite at BITS, Pilani and am Interested in the field of Robotics, C.V., Deep Learning and Machine Learning
     <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
       <img
            width="10%" 
