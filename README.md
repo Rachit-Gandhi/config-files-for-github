@@ -7,15 +7,6 @@
   
   <p align="center">
    Just a third yearite at BITS, Pilani and am Interested in the field of Robotics, C.V., Deep Learning and Machine Learning
-    <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
-      <img
-           width="10%" 
-           align="center" 
-           valign="middle" 
-           src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social" 
-           target="_blank" 
-      />
-    </a>  
   </p>
   
   <p align="center">
