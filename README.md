@@ -59,6 +59,6 @@
 </div>
 
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>,<a href="https://github.com/rafaballerini">Rafaella Ballerini</a> and <a href="https://github.com/duribeiro">Eduardo Ribeiro</a></p>
+ 
+  <p>Credits: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>,<a href="https://github.com/rafaballerini">Rafaella Ballerini</a> and <a href="https://github.com/duribeiro">Eduardo Ribeiro</a></p>
 </div>
