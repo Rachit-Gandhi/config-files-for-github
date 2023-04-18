@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Hey! Just a third yearite at BITS, Pilani and am Interested in the field of Robotics, C.V., Deep Learning and Machine Learning
+   Just a third yearite at BITS, Pilani and am Interested in the field of Robotics, C.V., Deep Learning and Machine Learning
     <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
       <img
            width="10%" 
