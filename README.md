@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/rachit-gandhi-4a79001a9/">Rachit Gandhi</a>
   </h1>
   
-  <h2><img src="bits_panorama.jpeg" width="2500px"></h2>
+  <h2><img src="bits_panorama.jpg" width="2500px"></h2>
   
   <p align="center">
    Just a third yearite at BITS, Pilani and am Interested in the field of Robotics, C.V., Deep Learning and Machine Learning
